@@ -10,6 +10,6 @@ def main():
     print(updated_fake_age)
     print(8/3)
     print(10/3)
-    
+
 
 main()
